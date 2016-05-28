@@ -1,0 +1,8 @@
+package com.huawei.wuqf;
+
+public class Student {
+	String name;
+	String id;
+	String address;
+	int age;
+}
